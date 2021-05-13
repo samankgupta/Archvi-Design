@@ -1,0 +1,8 @@
+Protocol:FTP - File transfer protocol
+
+Host: 100.42.52.114
+
+Encryption: Only use plain FTP(insecure)
+Logon Type: Normal
+User: archvidesign
+Password: Wtp500x%
